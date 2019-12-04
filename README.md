@@ -13,3 +13,7 @@ Feito com bootstrap grayscale, finalidade para divulgação
 
 App -
 Feito com Web View
+
+# Integrantes
+Jonas Niccioli "https://github.com/grandalinho"
+Yago Aparecido dos Santos Silva "https://github.com/YagogesKRYEG"
